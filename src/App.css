@@ -1,0 +1,171 @@
+/* .App {
+  text-align: center;
+  place-content: center;
+} */
+
+body{
+  font-family: 'Ubuntu', sans-serif;
+  /* background-color: #FFF9E9; */
+  /* background-image: linear-gradient(#FFF9E9, #FEEBDA); */
+  background-color: #FAFAFA;
+}
+
+.title{
+  font-size: 2.8rem;
+  line-height: 1.167;
+}
+
+.heading-1{
+  font-size: 2rem;
+  line-height: 1;
+}
+
+.heading-2{
+  font-size: 1.5rem;
+
+}
+
+.body-1{
+  font-size: 1.3rem;
+}
+
+.body-2{
+  font-size: 1rem;
+  line-height: 1.3;
+}
+
+.caption{
+  font-size: 13px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.imageBox {
+  /* position: relative; */
+  /* width: 100vw; */
+  min-height: 65vh;
+  max-height: 65vh;
+  background-image: url(./Olson_a_IC3-e1571415594139.jpeg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.img{
+    width: auto;
+    height: auto;
+    position: relative;
+    max-width: 100vw;
+    max-height: 65vh;
+}
+
+.boxcss {
+  width: calc(100% - 55px);
+  height: 100%;
+  margin: 0 auto;
+  max-width: 2700px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.alignC {
+  text-align: center;
+  place-content: center;
+}
+@media (max-width: 959.95px) {
+.box31 {
+    top: auto;
+    transform: none;
+    padding-bottom: 80px;
+}
+}
+
+.box31 {
+    top: 50%;
+    width: 100%;
+    height: calc(100% - 80px);
+    margin: 0 auto;
+    position: relative;
+    max-width: 1920px;
+    transform: translateY(-50%);
+    max-height: 900px;
+    padding-top: 80px;
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+}
+
+.box45 {
+}
+
+.textbox {
+  width: 95%;
+  margin: 0 auto;
+  /* text-align: center; */
+}
+
+.boxcss p {
+  margin: 0 auto;
+  max-width: 920px;
+  /* text-align: center; */
+}
+
+.mrg16-TB {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.mrg16-LR {
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+.pd16-LR {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.pd16-T {
+  padding-top: 16px;
+}
+
+.pd16-B {
+padding-bottom: 16px;
+}
+
+.pd16-TB {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.pd32-T {
+  padding-top: 32px;
+}
+
+.pd32-TB {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.pd48-TB {
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+
+.pd48-B {
+  padding-bottom: 48px;
+}
+.mrg0-T {
+  margin-top: 0;
+}
+
+.mrg0-TB {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.pd32-B{
+  padding-bottom: 32px;
+}
