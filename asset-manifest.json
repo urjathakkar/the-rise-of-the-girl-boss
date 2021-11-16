@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/the-rise-of-the-girl-boss/static/css/main.19dae6d1.chunk.css",
+    "main.js": "/the-rise-of-the-girl-boss/static/js/main.35d3cb74.chunk.js",
+    "main.js.map": "/the-rise-of-the-girl-boss/static/js/main.35d3cb74.chunk.js.map",
+    "runtime-main.js": "/the-rise-of-the-girl-boss/static/js/runtime-main.bfde3beb.js",
+    "runtime-main.js.map": "/the-rise-of-the-girl-boss/static/js/runtime-main.bfde3beb.js.map",
+    "static/css/2.ee779822.chunk.css": "/the-rise-of-the-girl-boss/static/css/2.ee779822.chunk.css",
+    "static/js/2.dda11e8e.chunk.js": "/the-rise-of-the-girl-boss/static/js/2.dda11e8e.chunk.js",
+    "static/js/2.dda11e8e.chunk.js.map": "/the-rise-of-the-girl-boss/static/js/2.dda11e8e.chunk.js.map",
+    "static/js/3.a4b47073.chunk.js": "/the-rise-of-the-girl-boss/static/js/3.a4b47073.chunk.js",
+    "static/js/3.a4b47073.chunk.js.map": "/the-rise-of-the-girl-boss/static/js/3.a4b47073.chunk.js.map",
+    "index.html": "/the-rise-of-the-girl-boss/index.html",
+    "static/css/2.ee779822.chunk.css.map": "/the-rise-of-the-girl-boss/static/css/2.ee779822.chunk.css.map",
+    "static/css/main.19dae6d1.chunk.css.map": "/the-rise-of-the-girl-boss/static/css/main.19dae6d1.chunk.css.map",
+    "static/js/2.dda11e8e.chunk.js.LICENSE.txt": "/the-rise-of-the-girl-boss/static/js/2.dda11e8e.chunk.js.LICENSE.txt",
+    "static/media/76216.cb3d69ba.svg": "/the-rise-of-the-girl-boss/static/media/76216.cb3d69ba.svg",
+    "static/media/App.css": "/the-rise-of-the-girl-boss/static/media/Olson_a_IC3-e1571415594139.57b5778b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfde3beb.js",
+    "static/css/2.ee779822.chunk.css",
+    "static/js/2.dda11e8e.chunk.js",
+    "static/css/main.19dae6d1.chunk.css",
+    "static/js/main.35d3cb74.chunk.js"
+  ]
+}
