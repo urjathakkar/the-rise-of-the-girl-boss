@@ -58,7 +58,7 @@ const App = () => (
                 </p>
           </Grid>
           <Grid item sm={7}>
-              <iframe width="95%" height="575px" src="https://prod-useast-b.online.tableau.com/t/urjathakkar/views/riseofgirlboss/Dashboard2?:origin=card_share_link&:embed=n&:embed=yes"></iframe>
+              <iframe width="95%" height="575px" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true"></iframe>
           </Grid>
         </Grid>
         

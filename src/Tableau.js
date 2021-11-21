@@ -90,7 +90,7 @@ function Tableau() {
                 </p>
           </Grid>
           <Grid item sm={7}>
-          <iframe width="95%" height="575px" src="https://prod-useast-b.online.tableau.com/t/urjathakkar/views/riseofgirlboss/dashboard-waves?:origin=card_share_link&:embed=n&:embed=yes"></iframe> 
+          <iframe width="95%" height="575px" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true"></iframe> 
           </Grid>
         </Grid>
         
@@ -105,7 +105,7 @@ function Tableau() {
                 </p>
           </Grid>
           <Grid item sm={7}>
-          <iframe width="95%" height="575px" src="https://prod-useast-b.online.tableau.com/t/urjathakkar/views/riseofgirlboss/Dashboard3?:origin=card_share_link&:embed=n&:embed=yes"></iframe>
+          <iframe width="95%" height="575px" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true"></iframe>
           </Grid>
         </Grid>
     </div>
@@ -119,7 +119,7 @@ function Tableau() {
                 </p>
           </Grid>
           <Grid item sm={7}>
-          <iframe width="95%" height="575px" src="https://prod-useast-b.online.tableau.com/t/urjathakkar/views/riseofgirlboss/Dashboard4?:origin=card_share_link&:embed=n&:embed=yes"></iframe>
+          <iframe width="95%" height="575px" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true&:showVizHome=no&:embed=true"></iframe>
           </Grid>
         </Grid>
     </div>
