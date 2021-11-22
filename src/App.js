@@ -52,13 +52,19 @@ const App = () => (
                   early-industrialized countries.
                   In the majority of countries, across all income levels the participation of women in labor markets is 
                   today higher than several decades ago.
-                  <br/>
-                  <br/>
-                  [description of the visualiztion]
+                  </p>
+                  <p className="body-2 pd16-LR pd16-TB">
+                  After reaching a peak in 1999, labor force participation among women began a gradual decline. 
+                  This decline accelerated following the Great Recession of 2007–09 until the participation rate hit a recent low in 2015 at 56.7 percent.
+            Women’s involvement in the labor market changed in several notable ways since the 1940s 
+            as other socioeconomic factors were also shifting. First, women became much more likely to pursue 
+            higher levels of education: the proportion of women ages 25 to 64 in the labor force who 
+            held a college degree nearly quadrupled from 1970 to 2017, 
+            whereas the proportion of men with a college degree about doubled over that time.
                 </p>
           </Grid>
           <Grid item sm={7}>
-              <iframe width="95%" height="575px" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true"></iframe>
+              <iframe width="98%" height="635px" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true"></iframe>
           </Grid>
         </Grid>
         

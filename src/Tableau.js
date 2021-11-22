@@ -71,6 +71,12 @@ function Tableau() {
                   working through their marriages and even attending graduate school. 
                   Most women however were still secondary earners, and worked in ”pink-collar jobs”.
                   Nevertheless, Labor force participation by women still grew significantly.
+
+                  <br/>
+                  The second wave of feminism is often accused of being elitist and ignoring groups such as 
+                  women of colour and transgender women, instead, focusing on white, middle class, cisgender women. 
+                  Third wave feminists questioned the beliefs of their predecessors and began to apply feminist theory 
+                  to a wider variety of women, who had not been previously included in feminist activity.
                   <br/>
                   <br/>
                 </p>
@@ -85,12 +91,9 @@ function Tableau() {
                   </SwiperSlide>
                 </Swiper>
                 
-                <p className="body-2 pd16-LR">
-                  [description of the visualiztion]
-                </p>
           </Grid>
           <Grid item sm={7}>
-          <iframe width="95%" height="575px" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true"></iframe> 
+          <iframe width="98%" height="635px" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true"></iframe> 
           </Grid>
         </Grid>
         
@@ -101,11 +104,18 @@ function Tableau() {
           <Grid item sm={5}>
           <h3 className="heading-1 mrg16-LR mrg0-T"> Women in Employment In Different Occupations</h3>
                 <p className="body-2 pd16-LR">
-                  [description of the visualiztion]
+                  Women have been in the workforce for over more than a century but the participation of women in different sectors has changed over these years.
+                  In the early 2000s education and library occupations came in the top 3 occupations, 
+                  and in 2020 we see that health practitioners and technical occupations came in the top 3 occupations. These trends show
+                  that women were no longer bound to stay in their houses 
+                  and their expectation of future employment changed and they saw themselves getting college degress and working and not just in "pink collar jobs".
+                </p>
+                <p className="body-2 pd16-LR pd16-TB">
+                  The chart shows these trends of the top occupations for women over 1997 to 2020.
                 </p>
           </Grid>
           <Grid item sm={7}>
-          <iframe width="95%" height="575px" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true"></iframe>
+          <iframe width="98%" height="635px" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true"></iframe>
           </Grid>
         </Grid>
     </div>
@@ -115,11 +125,20 @@ function Tableau() {
           <Grid item sm={5}>
           <h3 className="heading-1 mrg16-LR mrg0-T">Gender Gap Index</h3>
                 <p className="body-2 pd16-LR">
-                  [description of the visualiztion]
+                The Global Gender Gap Index, is a framework for capturing the magnitude and scope of gender-based 
+                disparities and tracking their progress.
+                The Index benchmarks national gender gaps in four key areas: economic, political, education and health-based criteria, 
+                and is based on a total of 14 indicators from these categories.
+                The index is designed to "measure gender-based gaps in access to resources and opportunities in countries rather than the actual level of the available resources and opportunities in those countries.
+                </p>
+                <p className="body-2 pd16-LR pd16-TB">
+                The highest possible score is 1.0 (equality or better for women, except for lifespan (106% or better for women) and gender parity at birth (94.4% or better for women) and the lowest possible score is 0.
+                <br/> Data for some countries are unavailable.
+                  
                 </p>
           </Grid>
           <Grid item sm={7}>
-          <iframe width="95%" height="575px" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true&:showVizHome=no&:embed=true"></iframe>
+          <iframe width="98%" height="635px" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true&:showVizHome=no&:embed=true"></iframe>
           </Grid>
         </Grid>
     </div>
