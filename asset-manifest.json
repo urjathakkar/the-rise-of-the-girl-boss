@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/the-rise-of-the-girl-boss/static/css/main.19dae6d1.chunk.css",
-    "main.js": "/the-rise-of-the-girl-boss/static/js/main.d32e3ef0.chunk.js",
-    "main.js.map": "/the-rise-of-the-girl-boss/static/js/main.d32e3ef0.chunk.js.map",
+    "main.js": "/the-rise-of-the-girl-boss/static/js/main.3f007fab.chunk.js",
+    "main.js.map": "/the-rise-of-the-girl-boss/static/js/main.3f007fab.chunk.js.map",
     "runtime-main.js": "/the-rise-of-the-girl-boss/static/js/runtime-main.bfde3beb.js",
     "runtime-main.js.map": "/the-rise-of-the-girl-boss/static/js/runtime-main.bfde3beb.js.map",
     "static/css/2.ee779822.chunk.css": "/the-rise-of-the-girl-boss/static/css/2.ee779822.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.ee779822.chunk.css",
     "static/js/2.dda11e8e.chunk.js",
     "static/css/main.19dae6d1.chunk.css",
-    "static/js/main.d32e3ef0.chunk.js"
+    "static/js/main.3f007fab.chunk.js"
   ]
 }
