@@ -1,0 +1,293 @@
+/* .App {
+  text-align: center;
+  place-content: center;
+} */
+
+.title-1{
+  font-size: 4rem;
+  line-height: 1.2;
+}
+.title{
+  font-size: 2.8rem;
+  line-height: 1.167;
+}
+
+.heading-1{
+  font-size: 2rem;
+  line-height: 1;
+}
+
+.heading-2{
+  font-size: 1.5rem;
+
+}
+
+.body-1{
+  font-size: 1.3rem;
+}
+
+.caption{
+  font-size: 13px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+.boxcss {
+  width: calc(100% - 55px);
+  height: 100%;
+  margin: 0 auto;
+  max-width: 2700px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.alignC {
+  text-align: center;
+  place-content: center;
+}
+@media (max-width: 959.95px) {
+.box31 {
+    top: auto;
+    transform: none;
+    padding-bottom: 80px;
+}
+}
+
+.box31 {
+    top: 50%;
+    width: 100%;
+    height: calc(100% - 80px);
+    margin: 0 auto;
+    position: relative;
+    max-width: 1920px;
+    transform: translateY(-50%);
+    max-height: 900px;
+    padding-top: 80px;
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+}
+
+
+
+.textbox {
+  width: 95%;
+  margin: 0 auto;
+  /* text-align: center; */
+}
+
+/* .boxcss p {
+  margin: 0 auto;
+  max-width: 920px;
+} */
+
+.fw-700 {
+  font-weight: 700;
+}
+
+.white {
+  color: white;
+}
+.mrg0-TB {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.mrg0-B {
+  margin-bottom: 0px;
+}
+.mrg0-T {
+  margin-top: 0px;
+}
+
+.mrg8-TB {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.mrg8-B {
+  margin-bottom: 8px;
+}
+
+.mrg16-TB {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.mrg16-LR {
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+.pd16-LR {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.pd16-T {
+  padding-top: 16px;
+}
+
+.pd16-B {
+padding-bottom: 16px;
+}
+
+.pd16-TB {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.pd32-T {
+  padding-top: 32px;
+}
+
+.pd32-TB {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.pd48-TB {
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+
+.pd48-B {
+  padding-bottom: 48px;
+}
+.mrg0-T {
+  margin-top: 0;
+}
+
+.mrg0-TB {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.pd32-B{
+  padding-bottom: 32px;
+}
+
+.first-wave-img { 
+  position: relative; 
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-image: url('./Women-suffragists-organization-headquarters-Philadelphia-1917.png');
+  background-size: cover;
+}
+
+.second-wave-img { 
+  position: relative; 
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-image: url('./safe-legal-abortion2.png');
+  background-size: 100% 100%;
+}
+/* 
+.second-wave-img::before {
+  content: "";
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+} */
+
+.third-wave-img { 
+  position: relative; 
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-image: url('./TorontoSlutwalk.png');
+  background-size: cover;
+}
+
+/* .third-wave-img::before {
+  content: "";
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  background-color: rgba(0,0,0,0.55);
+} */
+
+.fourth-wave-img { 
+  position: relative; 
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-image: url('./metoo1.png');
+  /* filter: grayscale(100%); */
+  background-size: cover;
+}
+
+/* .fourth-wave-img::before {
+  content: "";
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  background-color: rgba(0,0,0,0.55);
+} */
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.boxs {
+  background-color: rgba(255, 255, 255, 0.42);
+  border-radius: 5px;
+  text-align: center;
+ -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+  padding: 20px 40px;
+}
+
+.boxc {
+  background-color: rgba(255, 255, 255, 0.35);
+  border-radius: 50%;
+  text-align: center;
+ -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+  height: 60%;
+  width: 60%;
+  padding: 20px;
+}
+
+
+.hero-img { 
+  position: relative; 
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-image: url('./GettyImages_120385927.0.webp');
+  background-size: cover;
+}
+
+.hero-img::before {
+  content: "";
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  background-color: rgba(0,0,0,0.35);
+}
+
+.banner {
+  position: absolute;
+  left: 0;
+  top: 0;
+}

@@ -8,8 +8,20 @@ body{
   /* background-color: #FFF9E9; */
   /* background-image: linear-gradient(#FFF9E9, #FEEBDA); */
   background-color: #FAFAFA;
+  /* background-color: #FDEFD7; */
 }
 
+.black-700{
+  color: #403a30;
+}
+
+.gray {
+  color: #979698;
+}
+
+.fw-600 {
+  font-weight: 600;
+}
 .title{
   font-size: 2.8rem;
   line-height: 1.167;
@@ -45,12 +57,12 @@ body{
 .imageBox {
   /* position: relative; */
   /* width: 100vw; */
-  min-height: 65vh;
+  min-height: 62vh;
   max-height: 65vh;
-  background-image: url(./Olson_a_IC3-e1571415594139.jpeg);
+  background-image: url(./topic-feminism-gettyimages-53375119-feature.jpeg);
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: center;
+  background-position: initial;
 }
 
 .img{
@@ -68,6 +80,12 @@ body{
   max-width: 2700px;
   padding-top: 50px;
   padding-bottom: 50px;
+}
+
+.box-920{
+  width: 920px;
+  height: 100%;
+  margin: 0 auto;
 }
 
 .alignC {
@@ -97,8 +115,6 @@ body{
     padding-bottom: 40px;
 }
 
-.box45 {
-}
 
 .textbox {
   width: 95%;
@@ -106,12 +122,18 @@ body{
   /* text-align: center; */
 }
 
-.boxcss p {
+/* .boxcss p {
   margin: 0 auto;
   max-width: 920px;
-  /* text-align: center; */
-}
+  text-align: center;
+} */
 
+.mrg0-B {
+  margin-bottom: 0px;
+}
+.mrg0-T {
+  margin-top: 0px;
+}
 .mrg16-TB {
   margin-top: 16px;
   margin-bottom: 16px;
@@ -120,6 +142,15 @@ body{
 .mrg16-LR {
   margin-left: 16px;
   margin-right: 16px;
+}
+
+.mrg32-T {
+  margin-top: 32px;
+}
+
+
+.mrg72-T {
+  margin-top: 72px;
 }
 
 .pd16-LR {
@@ -154,6 +185,14 @@ padding-bottom: 16px;
   padding-bottom: 48px;
 }
 
+.pd48-T {
+  padding-top: 48px;
+}
+
+.pd64-T {
+  padding-top: 64px;
+}
+
 .pd48-B {
   padding-bottom: 48px;
 }
@@ -168,4 +207,62 @@ padding-bottom: 16px;
 
 .pd32-B{
   padding-bottom: 32px;
+}
+
+ul {
+  list-style: none;
+}
+
+.title-h2 {
+  color: #2d2d2d;
+  max-width: 11.33333em;
+  margin: 0.2em 0 0.4em;
+}
+
+.title-h3 {
+  font-size: 2.25em;
+  line-height: 1.33333em;
+  letter-spacing: -.03333em;
+}
+
+.title-h2, .title-h3 {
+  /* font-family: Libre Baskerville,serif; */
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  margin: 0;
+}
+
+.title-h2 {
+  font-size: 3em;
+  line-height: 1.2em;
+  letter-spacing: -.02em;
+}
+
+.hashtags__list {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  width: 81em;
+  flex-wrap: wrap;
+}
+
+li {
+  width: 24em;
+  margin-right: 3em;
+  margin-bottom: 3em;
+}
+
+li a {
+  color: #D04B4B;
+  text-decoration: none;
+}
+
+.red {
+  color: #D04B4B;
+}
+
+a{
+  text-decoration: none;
+  cursor: pointer;
 }

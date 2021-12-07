@@ -23,7 +23,7 @@ SwiperCore.use([Pagination]);
 function Tableau() {
   return (
     <div className="Tableau">
-     <div className="boxcss">
+     {/* <div className="boxcss">
         <Grid container spacing={2}>
           <Grid item sm={5}>
           <h3 className="heading-1 mrg16-LR mrg0-T">The Four Waves Of Feminism</h3>
@@ -93,13 +93,13 @@ function Tableau() {
                 
           </Grid>
           <Grid item sm={7}>
-          <iframe width="98%" height="635px" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true"></iframe> 
+          <iframe  frameBorder="0" marginHeight="0" marginWidth="0" allowtransparency="true" allowFullScreen={true} className="tableauViz" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true"></iframe> 
           </Grid>
         </Grid>
         
-      </div>
+      </div> */}
 
-    <div className="boxcss">
+    {/* <div className="boxcss">
       <Grid container spacing={2}>
           <Grid item sm={5}>
           <h3 className="heading-1 mrg16-LR mrg0-T"> Women in Employment In Different Occupations</h3>
@@ -115,12 +115,13 @@ function Tableau() {
                 </p>
           </Grid>
           <Grid item sm={7}>
-          <iframe width="98%" height="635px" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true"></iframe>
+          <iframe frameBorder="0" marginHeight="0" marginWidth="0" allowtransparency="true" allowFullScreen={true} className="tableauViz"
+          src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard3?:embed=y&amp;:showVizHome=no&amp;:host_url=https%3A%2F%2Fpublic.tableau.com%2F&amp;:embed_code_version=3&amp;:tabs=no&amp;:toolbar=yes&amp;:animate_transition=yes&amp;:display_static_image=no&amp;:display_spinner=no&amp;:display_overlay=yes&amp;:display_count=yes&amp;:language=en&amp;:loadOrderID=0"></iframe>
           </Grid>
         </Grid>
-    </div>
+    </div> */}
 
-    <div className="boxcss">
+    {/* <div className="boxcss">
       <Grid container spacing={2}>
           <Grid item sm={5}>
           <h3 className="heading-1 mrg16-LR mrg0-T">Gender Gap Index</h3>
@@ -138,10 +139,10 @@ function Tableau() {
                 </p>
           </Grid>
           <Grid item sm={7}>
-          <iframe width="98%" height="635px" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true&:showVizHome=no&:embed=true"></iframe>
+          <iframe  frameBorder="0" marginHeight="0" marginWidth="0" allowtransparency="true" allowFullScreen={true} className="tableauViz" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true&:showVizHome=no&:embed=true"></iframe>
           </Grid>
         </Grid>
-    </div>
+    </div> */}
 
     </div>
   );
