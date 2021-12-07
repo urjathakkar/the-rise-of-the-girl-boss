@@ -1,27 +1,34 @@
 {
   "files": {
-    "main.css": "/the-rise-of-the-girl-boss/static/css/main.19dae6d1.chunk.css",
-    "main.js": "/the-rise-of-the-girl-boss/static/js/main.3f007fab.chunk.js",
-    "main.js.map": "/the-rise-of-the-girl-boss/static/js/main.3f007fab.chunk.js.map",
-    "runtime-main.js": "/the-rise-of-the-girl-boss/static/js/runtime-main.bfde3beb.js",
-    "runtime-main.js.map": "/the-rise-of-the-girl-boss/static/js/runtime-main.bfde3beb.js.map",
+    "main.css": "/the-rise-of-the-girl-boss/static/css/main.236a6927.chunk.css",
+    "main.js": "/the-rise-of-the-girl-boss/static/js/main.dac512e0.chunk.js",
+    "main.js.map": "/the-rise-of-the-girl-boss/static/js/main.dac512e0.chunk.js.map",
+    "runtime-main.js": "/the-rise-of-the-girl-boss/static/js/runtime-main.e190557c.js",
+    "runtime-main.js.map": "/the-rise-of-the-girl-boss/static/js/runtime-main.e190557c.js.map",
     "static/css/2.ee779822.chunk.css": "/the-rise-of-the-girl-boss/static/css/2.ee779822.chunk.css",
-    "static/js/2.dda11e8e.chunk.js": "/the-rise-of-the-girl-boss/static/js/2.dda11e8e.chunk.js",
-    "static/js/2.dda11e8e.chunk.js.map": "/the-rise-of-the-girl-boss/static/js/2.dda11e8e.chunk.js.map",
-    "static/js/3.a4b47073.chunk.js": "/the-rise-of-the-girl-boss/static/js/3.a4b47073.chunk.js",
-    "static/js/3.a4b47073.chunk.js.map": "/the-rise-of-the-girl-boss/static/js/3.a4b47073.chunk.js.map",
+    "static/js/2.26fcfa8c.chunk.js": "/the-rise-of-the-girl-boss/static/js/2.26fcfa8c.chunk.js",
+    "static/js/2.26fcfa8c.chunk.js.map": "/the-rise-of-the-girl-boss/static/js/2.26fcfa8c.chunk.js.map",
+    "static/js/3.b5876fab.chunk.js": "/the-rise-of-the-girl-boss/static/js/3.b5876fab.chunk.js",
+    "static/js/3.b5876fab.chunk.js.map": "/the-rise-of-the-girl-boss/static/js/3.b5876fab.chunk.js.map",
     "index.html": "/the-rise-of-the-girl-boss/index.html",
     "static/css/2.ee779822.chunk.css.map": "/the-rise-of-the-girl-boss/static/css/2.ee779822.chunk.css.map",
-    "static/css/main.19dae6d1.chunk.css.map": "/the-rise-of-the-girl-boss/static/css/main.19dae6d1.chunk.css.map",
-    "static/js/2.dda11e8e.chunk.js.LICENSE.txt": "/the-rise-of-the-girl-boss/static/js/2.dda11e8e.chunk.js.LICENSE.txt",
+    "static/css/main.236a6927.chunk.css.map": "/the-rise-of-the-girl-boss/static/css/main.236a6927.chunk.css.map",
+    "static/js/2.26fcfa8c.chunk.js.LICENSE.txt": "/the-rise-of-the-girl-boss/static/js/2.26fcfa8c.chunk.js.LICENSE.txt",
     "static/media/76216.cb3d69ba.svg": "/the-rise-of-the-girl-boss/static/media/76216.cb3d69ba.svg",
-    "static/media/App.css": "/the-rise-of-the-girl-boss/static/media/Olson_a_IC3-e1571415594139.57b5778b.jpeg"
+    "static/media/Waves.css": "/the-rise-of-the-girl-boss/static/media/safe-legal-abortion2.03113459.png",
+    "static/media/Mask Group.55733338.png": "/the-rise-of-the-girl-boss/static/media/Mask Group.55733338.png",
+    "static/media/Women-suffragists-organization-headquarters-Philadelphia-1917.9fab73dd.jpeg": "/the-rise-of-the-girl-boss/static/media/Women-suffragists-organization-headquarters-Philadelphia-1917.9fab73dd.jpeg",
+    "static/media/firstwave.b7805a36.png": "/the-rise-of-the-girl-boss/static/media/firstwave.b7805a36.png",
+    "static/media/fourthwave.7eeea50f.png": "/the-rise-of-the-girl-boss/static/media/fourthwave.7eeea50f.png",
+    "static/media/secondwave.2db2135f.png": "/the-rise-of-the-girl-boss/static/media/secondwave.2db2135f.png",
+    "static/media/thirdwave.2daf9450.png": "/the-rise-of-the-girl-boss/static/media/thirdwave.2daf9450.png",
+    "static/media/App.css": "/the-rise-of-the-girl-boss/static/media/topic-feminism-gettyimages-53375119-feature.0b9aa301.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bfde3beb.js",
+    "static/js/runtime-main.e190557c.js",
     "static/css/2.ee779822.chunk.css",
-    "static/js/2.dda11e8e.chunk.js",
-    "static/css/main.19dae6d1.chunk.css",
-    "static/js/main.3f007fab.chunk.js"
+    "static/js/2.26fcfa8c.chunk.js",
+    "static/css/main.236a6927.chunk.css",
+    "static/js/main.dac512e0.chunk.js"
   ]
 }
