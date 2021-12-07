@@ -119,16 +119,16 @@ const App = () => (
       </div>
       <div>
         <ul className="hashtags__list">
-          <li><a className="title-h3">#SendeAnlat</a></li> 
-          <li><a className="title-h3">#BringBackOurGirls</a></li> 
-          <li><a className="title-h3">#YesAllWomen</a></li> 
-          <li><a className="title-h3">#EverydaySexism</a></li> 
-          <li><a className="title-h3">#WomenShould</a></li> 
-          <li><a className="title-h3">#HeForShe</a></li> 
+          <li><a href="https://www.huffpost.com/entry/turkey-sendeanlat-twitter-campaign_n_6699702" target="_blank" className="title-h3">#SendeAnlat</a></li> 
+          <li><a href="https://bringbackourgirls.ng/" target="_blank" className="title-h3">#BringBackOurGirls</a></li> 
+          <li><a href="https://www.newyorker.com/culture/culture-desk/the-power-of-yesallwomen" target="_blank" className="title-h3">#YesAllWomen</a></li> 
+          <li><a href="https://twitter.com/everydaysexism" target="_blank" className="title-h3">#EverydaySexism</a></li> 
+          <li><a href="https://blogs.brighton.ac.uk/lm131/2017/01/09/un-women-womenshould-campaign/" target="_blank" className="title-h3">#WomenShould</a></li> 
+          <li><a href="https://www.heforshe.org/en" target="_blank" className="title-h3">#HeForShe</a></li> 
           <li><a className="title-h3">#NiUnaMenos</a></li> 
           <li><a className="title-h3">#MeToo</a></li> 
           <li><a className="title-h3">#YoTambien</a></li> 
-          <li><a className="title-h3">#QuellaVoltaChe</a></li> 
+          <li><a href="https://giuliablasi.medium.com/quellavoltache-italys-metoo-before-metoo-83e7f6a73276" target="_blank" className="title-h3">#QuellaVoltaChe</a></li> 
           <li><a className="title-h3">#BalanceTonPorc</a></li> 
           <li><a className="title-h3">#AnaKaman</a></li> 
           <li><a className="title-h3">#TimesUp</a></li> 
