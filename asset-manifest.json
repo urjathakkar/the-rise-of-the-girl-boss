@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/the-rise-of-the-girl-boss/static/css/main.9ed28adb.chunk.css",
-    "main.js": "/the-rise-of-the-girl-boss/static/js/main.783f54cb.chunk.js",
-    "main.js.map": "/the-rise-of-the-girl-boss/static/js/main.783f54cb.chunk.js.map",
+    "main.css": "/the-rise-of-the-girl-boss/static/css/main.896da26d.chunk.css",
+    "main.js": "/the-rise-of-the-girl-boss/static/js/main.8db764d4.chunk.js",
+    "main.js.map": "/the-rise-of-the-girl-boss/static/js/main.8db764d4.chunk.js.map",
     "runtime-main.js": "/the-rise-of-the-girl-boss/static/js/runtime-main.b41a42d1.js",
     "runtime-main.js.map": "/the-rise-of-the-girl-boss/static/js/runtime-main.b41a42d1.js.map",
     "static/js/2.af8e4b67.chunk.js": "/the-rise-of-the-girl-boss/static/js/2.af8e4b67.chunk.js",
@@ -10,20 +10,20 @@
     "static/js/3.4138826f.chunk.js": "/the-rise-of-the-girl-boss/static/js/3.4138826f.chunk.js",
     "static/js/3.4138826f.chunk.js.map": "/the-rise-of-the-girl-boss/static/js/3.4138826f.chunk.js.map",
     "index.html": "/the-rise-of-the-girl-boss/index.html",
-    "static/css/main.9ed28adb.chunk.css.map": "/the-rise-of-the-girl-boss/static/css/main.9ed28adb.chunk.css.map",
+    "static/css/main.896da26d.chunk.css.map": "/the-rise-of-the-girl-boss/static/css/main.896da26d.chunk.css.map",
     "static/js/2.af8e4b67.chunk.js.LICENSE.txt": "/the-rise-of-the-girl-boss/static/js/2.af8e4b67.chunk.js.LICENSE.txt",
-    "static/media/Mask Group.55733338.png": "/the-rise-of-the-girl-boss/static/media/Mask Group.55733338.png",
     "static/media/Waves.css": "/the-rise-of-the-girl-boss/static/media/womenOfTheWorld.91620e77.webp",
+    "static/media/App.css": "/the-rise-of-the-girl-boss/static/media/banner1.0b9aa301.jpeg",
     "static/media/firstwave.b7805a36.png": "/the-rise-of-the-girl-boss/static/media/firstwave.b7805a36.png",
     "static/media/fourthwave.7eeea50f.png": "/the-rise-of-the-girl-boss/static/media/fourthwave.7eeea50f.png",
+    "static/media/rise-of-the-girl-boss.55733338.png": "/the-rise-of-the-girl-boss/static/media/rise-of-the-girl-boss.55733338.png",
     "static/media/secondwave.2db2135f.png": "/the-rise-of-the-girl-boss/static/media/secondwave.2db2135f.png",
-    "static/media/thirdwave.2daf9450.png": "/the-rise-of-the-girl-boss/static/media/thirdwave.2daf9450.png",
-    "static/media/App.css": "/the-rise-of-the-girl-boss/static/media/topic-feminism-gettyimages-53375119-feature.0b9aa301.jpeg"
+    "static/media/thirdwave.2daf9450.png": "/the-rise-of-the-girl-boss/static/media/thirdwave.2daf9450.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b41a42d1.js",
     "static/js/2.af8e4b67.chunk.js",
-    "static/css/main.9ed28adb.chunk.css",
-    "static/js/main.783f54cb.chunk.js"
+    "static/css/main.896da26d.chunk.css",
+    "static/js/main.8db764d4.chunk.js"
   ]
 }
