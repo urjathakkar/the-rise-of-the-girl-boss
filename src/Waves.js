@@ -2,7 +2,7 @@
 import './Waves.css';
 import React from 'react';
 import Grid from '@mui/material/Grid';
-import banner from './images/Mask Group.png'
+import banner from './images/rise-of-the-girl-boss.png'
 import firstwave from './images/firstwave.png'
 import thirdwave from './images/thirdwave.png'
 import secondwave from './images/secondwave.png'

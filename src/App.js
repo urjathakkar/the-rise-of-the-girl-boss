@@ -102,14 +102,14 @@ export default class App extends React.Component {
           <li><a href="https://twitter.com/everydaysexism" target="_blank" className="title-h3">#EverydaySexism</a></li> 
           <li><a href="https://blogs.brighton.ac.uk/lm131/2017/01/09/un-women-womenshould-campaign/" target="_blank" className="title-h3">#WomenShould</a></li> 
           <li><a href="https://www.heforshe.org/en" target="_blank" className="title-h3">#HeForShe</a></li> 
-          <li><a className="title-h3">#NiUnaMenos</a></li> 
-          <li><a className="title-h3">#MeToo</a></li> 
-          <li><a className="title-h3">#YoTambien</a></li> 
+          <li><a href="https://www.npr.org/2021/10/15/1043908435/how-niunamenos-grew-from-the-streets-of-argentina-into-a-regional-womens-movemen" target="_blank" className="title-h3">#NiUnaMenos</a></li> 
+          <li><a href="https://metoomvmt.org/" target="_blank" className="title-h3">#MeToo</a></li> 
+          <li><a href="https://www.latimes.com/world/middleeast/la-fg-global-me-too-20171018-story.html" target="_blank" className="title-h3">#YoTambien</a></li> 
           <li><a href="https://giuliablasi.medium.com/quellavoltache-italys-metoo-before-metoo-83e7f6a73276" target="_blank" className="title-h3">#QuellaVoltaChe</a></li> 
-          <li><a className="title-h3">#BalanceTonPorc</a></li> 
-          <li><a className="title-h3">#AnaKaman</a></li> 
-          <li><a className="title-h3">#TimesUp</a></li> 
-          <li><a className="title-h3">#FeministFriday</a></li>
+          <li><a href="https://theconversation.com/balancetonporc-the-story-behind-pigs-and-lust-92491" target="_blank" className="title-h3">#BalanceTonPorc</a></li> 
+          <li><a href="https://egyptianstreets.com/2018/05/24/anakaman-how-metoo-has-helped-egyptian-and-middle-eastern-women-break-the-silence/" target="_blank" className="title-h3">#AnaKaman</a></li> 
+          <li><a href="https://timesupnow.org/" target="_blank" className="title-h3">#TimesUp</a></li> 
+          <li><a href="https://twitter.com/hashtag/feministfriday" target="_blank" className="title-h3">#FeministFriday</a></li>
         </ul>
         </div>
         </div>
