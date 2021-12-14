@@ -1,42 +1,18 @@
-import girlboss from './76216.svg';
 import './App.css';
 import React from 'react';
 import Grid from '@mui/material/Grid';
-import { styled } from '@mui/material/styles';
-import Box from '@mui/material/Box';
-import Paper from '@mui/material/Paper';
-import FirstWave, {SecondWave, ThirdWave, FourthWave, FirstWaveDesc, SecondWaveDesc, ThirdWaveDesc,
+import FirstWave, { SecondWave, ThirdWave, FourthWave, FirstWaveDesc, SecondWaveDesc, ThirdWaveDesc,
   FourthWaveDesc, Waves} from "./Waves";
 import ReactPageScroller from 'react-page-scroller';
 
-import { Swiper, SwiperSlide } from "swiper/react";
-import 'swiper/swiper-bundle.min.css'
-import 'swiper/swiper.min.css'
-import { Navigation, Pagination } from 'swiper';
-import SwiperCore from 'swiper';
-const Item = styled(Paper)(({ theme }) => ({
-  ...theme.typography.body2,
-  padding: theme.spacing(1),
-  textAlign: 'center',
-  color: theme.palette.text.secondary,
-}));
+export default class App extends React.Component {
 
-SwiperCore.use([Pagination]);
-
-// const Item = styled(Paper)(({ theme }) => ({
-//   ...theme.typography.body2,
-//   padding: theme.spacing(1),
-//   textAlign: 'center',
-//   color: theme.palette.text.secondary,
-// }));
-
-
-const App = () => (
+  render() {
+  return (
     <div className="App">
       <header>
         <script type='text/javascript' src='https://prod-useast-b.online.tableau.com/javascripts/api/viz_v1.js'>
         </script>
-        {/* <link rel="stylesheet" href="https://use.typekit.net/msk1hyz.css"></link> */}
         
         <link rel="preconnect" href="https://fonts.googleapis.com"></link>
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin></link>
@@ -45,6 +21,7 @@ const App = () => (
       </header>
 
       <ReactPageScroller>
+
       <Waves />
       
       <section>
@@ -60,8 +37,10 @@ const App = () => (
        is characterized by a focus on the empowerment of women, the use of internet tools, and intersectionality.
       </p>
 
-      <div className="imageBox"></div>      
-       {/* // <img src={girlboss} alt="A picture depicting a girl boss" className="img mrg16-TB" />  */}
+      <div className="imageBox"></div>
+      <p>
+      <figcaption>John Olson/The LIFE Picture Collection/Getty Images</figcaption>
+      </p>
       </div>
       </section>
 
@@ -88,14 +67,12 @@ const App = () => (
                 </p>
           </Grid>
           <Grid item sm={7}>
-              <iframe  frameBorder="0" marginHeight="0" marginWidth="0" allowtransparency="true" allowFullScreen={true} className="tableauViz" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true"></iframe>
+              <iframe  frameBorder="0" marginHeight="0" marginWidth="0" allowtransparency="true" allowFullScreen={true} className="tableauViz" src="https://public.tableau.com/views/theriseofthegirlboss/laborforceparticipationbycountry?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true"></iframe>
           </Grid>
         </Grid>
         </div>
       </section>
      
-      
-
       <FirstWaveDesc />
       <FirstWave />
     
@@ -157,13 +134,13 @@ const App = () => (
           </Grid>
           <Grid item sm={7}>
           <iframe frameBorder="0" marginHeight="0" marginWidth="0" allowtransparency="true" allowFullScreen={true} className="tableauViz"
-          src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard3?:embed=y&amp;:showVizHome=no&amp;:host_url=https%3A%2F%2Fpublic.tableau.com%2F&amp;:embed_code_version=3&amp;:tabs=no&amp;:toolbar=yes&amp;:animate_transition=yes&amp;:display_static_image=no&amp;:display_spinner=no&amp;:display_overlay=yes&amp;:display_count=yes&amp;:language=en&amp;:loadOrderID=0"></iframe>
+          src="https://public.tableau.com/views/theriseofthegirlboss/womenindifferentoccupations?:embed=y&amp;:showVizHome=no&amp;:host_url=https%3A%2F%2Fpublic.tableau.com%2F&amp;:embed_code_version=3&amp;:tabs=no&amp;:toolbar=yes&amp;:animate_transition=yes&amp;:display_static_image=no&amp;:display_spinner=no&amp;:display_overlay=yes&amp;:display_count=yes&amp;:language=en&amp;:loadOrderID=0"></iframe>
           </Grid>
         </Grid>
     </div>
-    </section>
+      </section>
 
-    <section>
+      <section>
     <div className="boxcss">
     <h3 className="title-h2 mrg16-LR mrg0-T">Gender Gap Index</h3>
 
@@ -190,13 +167,13 @@ const App = () => (
                 </p>
           </Grid>
           <Grid item sm={7}>
-          <iframe  frameBorder="0" marginHeight="0" marginWidth="0" allowtransparency="true" allowFullScreen={true} className="tableauViz" src="https://public.tableau.com/views/theriseofthegirlboss/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true&:showVizHome=no&:embed=true"></iframe>
+          <iframe  frameBorder="0" marginHeight="0" marginWidth="0" allowtransparency="true" allowFullScreen={true} className="tableauViz" src="https://public.tableau.com/views/theriseofthegirlboss/gendergapindex?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true&:showVizHome=no&:embed=true"></iframe>
           </Grid>
         </Grid>
     </div>
-    </section>
+      </section>
 
-    <section>
+      <section>
       <div className="boxcss">
       <div className="center pd64-T">
         <h3 className="title-h2">The time is now</h3>
@@ -214,10 +191,9 @@ const App = () => (
       </section>
 
       </ReactPageScroller>
-
     </div>
       
-  );
-// )
+); }
+}
 
-export default App;
+// sexport default App;

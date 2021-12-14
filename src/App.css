@@ -1,14 +1,15 @@
-/* .App {
-  text-align: center;
-  place-content: center;
-} */
-
 body{
   font-family: 'Ubuntu', sans-serif;
-  /* background-color: #FFF9E9; */
-  /* background-image: linear-gradient(#FFF9E9, #FEEBDA); */
   background-color: #FAFAFA;
-  /* background-color: #FDEFD7; */
+}
+
+.tableauViz {
+  display: block; 
+  width: 98%;
+  height: 635px; 
+  margin: 0px; 
+  padding: 0px;
+  border: none
 }
 
 .black-700{
@@ -55,11 +56,9 @@ body{
 }
 
 .imageBox {
-  /* position: relative; */
-  /* width: 100vw; */
   min-height: 62vh;
   max-height: 65vh;
-  background-image: url(./topic-feminism-gettyimages-53375119-feature.jpeg);
+  background-image: url(./images/topic-feminism-gettyimages-53375119-feature.jpeg);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: initial;
@@ -119,14 +118,7 @@ body{
 .textbox {
   width: 95%;
   margin: 0 auto;
-  /* text-align: center; */
 }
-
-/* .boxcss p {
-  margin: 0 auto;
-  max-width: 920px;
-  text-align: center;
-} */
 
 .mrg0-B {
   margin-bottom: 0px;
@@ -226,7 +218,6 @@ ul {
 }
 
 .title-h2, .title-h3 {
-  /* font-family: Libre Baskerville,serif; */
   font-family: 'Ubuntu', sans-serif;
   font-weight: 400;
   font-style: italic;
@@ -265,4 +256,23 @@ li a {
 a{
   text-decoration: none;
   cursor: pointer;
+}
+
+.pagination-additional-class ul {
+  display: flex;
+  margin: 0;
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  justify-content: center;
+  width: 10%;
+}
+
+.pagination-additional-class ul li button {
+  background-color:#D04B4B;
+}
+
+figcaption {
+  font: italic smaller sans-serif;
 }

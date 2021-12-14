@@ -2,13 +2,11 @@
 import './Waves.css';
 import React from 'react';
 import Grid from '@mui/material/Grid';
-import sufrageMoment from './Women-suffragists-organization-headquarters-Philadelphia-1917.jpeg'
-import waves from './GettyImages_120385927.0.webp'
-import banner from './Mask Group.png'
-import firstwave from './firstwave.png'
-import thirdwave from './thirdwave.png'
-import secondwave from './secondwave.png'
-import fourthwave from './fourthwave.png'
+import banner from './images/Mask Group.png'
+import firstwave from './images/firstwave.png'
+import thirdwave from './images/thirdwave.png'
+import secondwave from './images/secondwave.png'
+import fourthwave from './images/fourthwave.png'
 
 function Waves() {
   return (
@@ -16,12 +14,18 @@ function Waves() {
     {/* <img src={waves} width="100%" height="100%" /> */}
     <section className="hero-img">
       <div>
+      
       <img src={banner} height="100%" width="auto" className="banner" />
+      
+      
         {/* <div className="center boxc">
         <h1 className="title-1 mrg0-TB black-700 fw-700">THE RISE OF THE GIRL BOSS</h1>
         <p className="body-1 black-700 fw-600">Explore Women's journey of feminism from generations past and present</p>
         </div> */}
       </div>
+      <p className="banner-caption">
+      <figcaption>Women's liberation movement in Washington, DC, August 26, 1970. Don Carl Steffen/Gamma-Rapho/Getty Images</figcaption>
+      </p>
     </section>
     </section>
   )
@@ -37,6 +41,9 @@ function FirstWaveDesc(){
        <h2 className="title fw-700 mrg8-B mrg0-T">The First Wave of Feminism</h2>
        <p className="title fw-700 mrg0-TB">1890 - 1960</p> */}
        </div>
+       <p className="banner-caption">
+       <figcaption>Harris and Ewing Collection/Library of Congress, Washington, D.C. (neg. no. LC-H261-8200)</figcaption>
+       </p>
       </div>
       {/* <img src={sufrageMoment} width="100%" height="100%" /> */}
       </section>
@@ -96,6 +103,10 @@ function SecondWaveDesc(){
      </div> */}
      <img src={secondwave} style={{position:'absolute',left:'0',bottom : '20px', filter: 'none', width: '40%'}} />
     </div>
+    <p className="banner-caption">
+       <figcaption>A 1977 protest in New York City for safe and legal abortions. (Peter Keegan/Stringer/Hulton Archive/Getty Images)
+       </figcaption>
+       </p>
     {/* <img src={sufrageMoment} width="100%" height="100%" /> */}
     </section>
   )
@@ -143,6 +154,11 @@ function ThirdWaveDesc(){
      </div> */}
      <img src={thirdwave} style={{position:'absolute',left:'0',bottom : '20px', filter: 'none', width: '40%'}} />
     </div>
+    <p className="banner-caption">
+       <figcaption>
+       The Slut Walk protest in Toronto © Anton Bielousov/Wikipedia
+       </figcaption>
+       </p>
     {/* <img src={sufrageMoment} width="100%" height="100%" /> */}
     </section>
   )
@@ -192,14 +208,13 @@ function FourthWaveDesc(){
   return (
     <section className="fourth-wave-img">
     <div className="center">
-      {/* <div className="center boxs">
-     <h2 className="title fw-700 mrg8-B mrg0-T">The Fourth Wave of Feminism</h2>
-     <p className="title fw-700 mrg0-TB">2010(?) - Present</p>
-     </div> */}
      <img src={fourthwave} style={{position:'absolute',left:'0',bottom : '20px', filter: 'none', width: '40%'}} />
-
     </div>
-    {/* <img src={sufrageMoment} width="100%" height="100%" /> */}
+    <p className="banner-caption">
+       <figcaption>
+       People protest sexual assault and harassment at the #MeToo March in Hollywood on Nov. 12, 2017
+       </figcaption>
+       </p>
     </section>
   )
 }
